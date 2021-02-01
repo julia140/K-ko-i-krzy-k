@@ -1,0 +1,17 @@
+﻿  Kolko_i_krzyzyk.cpp
+C:\Users\julec\OneDrive\Pulpit\Kolko_i_krzyzyk\Kolko_i_krzyzyk\Kolko_i_krzyzyk.cpp(6,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\julec\OneDrive\Pulpit\Kolko_i_krzyzyk\Kolko_i_krzyzyk\Kolko_i_krzyzyk.cpp(11,18): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\julec\OneDrive\Pulpit\Kolko_i_krzyzyk\Kolko_i_krzyzyk\Kolko_i_krzyzyk.cpp(12,18): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\julec\OneDrive\Pulpit\Kolko_i_krzyzyk\Kolko_i_krzyzyk\Kolko_i_krzyzyk.cpp(13,18): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\julec\OneDrive\Pulpit\Kolko_i_krzyzyk\Kolko_i_krzyzyk\Kolko_i_krzyzyk.cpp(14,18): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\julec\OneDrive\Pulpit\Kolko_i_krzyzyk\Kolko_i_krzyzyk\Kolko_i_krzyzyk.cpp(15,18): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\julec\OneDrive\Pulpit\Kolko_i_krzyzyk\Kolko_i_krzyzyk\Kolko_i_krzyzyk.cpp(16,18): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\julec\OneDrive\Pulpit\Kolko_i_krzyzyk\Kolko_i_krzyzyk\Kolko_i_krzyzyk.cpp(17,18): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\julec\OneDrive\Pulpit\Kolko_i_krzyzyk\Kolko_i_krzyzyk\Kolko_i_krzyzyk.cpp(18,19): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\julec\OneDrive\Pulpit\Kolko_i_krzyzyk\Kolko_i_krzyzyk\Kolko_i_krzyzyk.cpp(20,19): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\julec\OneDrive\Pulpit\Kolko_i_krzyzyk\Kolko_i_krzyzyk\Kolko_i_krzyzyk.cpp(21,16): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\julec\OneDrive\Pulpit\Kolko_i_krzyzyk\Kolko_i_krzyzyk\Kolko_i_krzyzyk.cpp(22,20): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\julec\OneDrive\Pulpit\Kolko_i_krzyzyk\Kolko_i_krzyzyk\Kolko_i_krzyzyk.cpp(23,18): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\julec\OneDrive\Pulpit\Kolko_i_krzyzyk\Kolko_i_krzyzyk\Kolko_i_krzyzyk.cpp(24,19): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\julec\OneDrive\Pulpit\Kolko_i_krzyzyk\Kolko_i_krzyzyk\Kolko_i_krzyzyk.cpp(25,14): warning C4309: "inicjowanie": obcięcie stałej wartości
+  Kolko_i_krzyzyk.vcxproj -> C:\Users\julec\OneDrive\Pulpit\Kolko_i_krzyzyk\Debug\Kolko_i_krzyzyk.exe
